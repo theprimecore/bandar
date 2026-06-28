@@ -1,4 +1,4 @@
-# Bandar - Commercial Buildings Services Initiative
+# NOP - Commercial Buildings Services Initiative
 ## Grundfos Saudi Arabia
 
 ### Executive Summary
@@ -104,7 +104,7 @@ Build a collaborative ecosystem supporting mutual growth and business success.
 ---
 
 ## Governance & Accountability
-**Project Lead:** [To be assigned]  
+**Project Lead:** [Bandar]  
 **Marketing Team:** Responsible for campaign execution and digital presence  
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 **Executive Sponsor:** Grundfos Saudi Arabia Management
