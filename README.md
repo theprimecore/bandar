@@ -74,6 +74,45 @@ Build a collaborative ecosystem supporting mutual growth and business success.
 
 ---
 
+## Performance Improvement Backlog (Prioritized)
+
+1. **Standardize campaign tracking with a mandatory UTM taxonomy and single KPI dashboard** *(Highest impact, lowest effort)*
+2. **Launch lead-source attribution (first-touch + last-touch) in CRM**
+3. **Define MQL/SQL scoring rubric to improve lead quality**
+4. **Implement conversion-focused landing page A/B testing**
+5. **Set SLA-based lead routing and follow-up automation**
+6. **Build account-based marketing (ABM) lists for top commercial prospects**
+7. **Repurpose high-performing content into Arabic + English multi-format assets**
+8. **Create event-to-pipeline playbooks with standardized post-event nurture**
+9. **Run quarterly partner performance reviews with shared scorecards**
+10. **Add budget reallocation rules based on cost-per-qualified-lead thresholds**
+
+### Implemented Quick Win: UTM Taxonomy + Unified KPI Dashboard
+
+To improve campaign performance visibility immediately, all digital campaigns should use a shared UTM format and feed a single weekly dashboard.
+
+**UTM convention (required):**
+- `utm_source` (linkedin, google, email, partner)
+- `utm_medium` (paid_social, cpc, webinar, newsletter)
+- `utm_campaign` (phase_objective_audience, e.g., `p2_leadgen_facilitymanagers`)
+- `utm_content` (creative or asset identifier)
+
+**Weekly dashboard minimum fields:**
+- Spend
+- Clicks
+- CTR
+- Leads
+- MQLs
+- SQLs
+- Cost per Lead
+- Cost per MQL
+- Influenced Pipeline
+- Won Revenue
+
+**Operating cadence:** Review weekly with marketing + sales and reallocate budget to top-performing channels.
+
+---
+
 ## Timeline & Phases
 
 **Phase 1 (Months 1-3):** Foundation & Strategy
